@@ -1,3 +1,17 @@
 /* BEGIN (write your solution here) */
+@media print {
+  :root {
+    --main-bg: #fff;
+    --terminal-bg: #fff;
+    --highlight-tag: #c62828;
+    --highlight-attr: #936315;
+    --highlight-string: #2e7d32;
+  }
 
+  .terminal {
+    color: #000;
+
+    border: 1px solid #000;
+  }
+}
 /* END */
