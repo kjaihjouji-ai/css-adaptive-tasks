@@ -98,13 +98,16 @@ h2 {
 
 .catalog {
   /* BEGIN (write your solution here) */
-
+display: flex;
+  justify-content: space-between;
   /* END */
 }
 
 .catalog-item {
   /* BEGIN (write your solution here) */
-
+flex: 1 1 24%;
+  min-width: 200px;
+  max-width: 500px;
   /* END */
   padding: 10px 25px;
 
