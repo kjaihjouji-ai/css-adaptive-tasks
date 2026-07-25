@@ -1,5 +1,5 @@
 /* BEGIN (write your solution here) */
-@media print {
+ print {
   :root {
     --main-bg: #fff;
     --terminal-bg: #fff;
